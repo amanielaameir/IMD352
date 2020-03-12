@@ -1,0 +1,17 @@
+.board {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.table-squares {
+    display: flex;
+    justify-content: center;
+}
+
+.tile {
+    height: 100px;
+    width: 100px;
+    border: 2px solid pink;
+}
