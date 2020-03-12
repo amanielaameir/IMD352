@@ -1,0 +1,40 @@
+h1 {
+    color: #025878;
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+   
+  }
+  h3 {
+    color: #025878;
+    font-family: verdana;
+    font-size: 15px;
+    text-align: center;
+  }
+  
+  p { 
+    color: orange;
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  label {
+    color: #025878;
+    font-family: verdana;
+    font-size: 15px;
+    text-align: center;
+  }
+  
+  form {
+      background: #C5EBF2;
+      padding: 1.5em;
+      border-radius: 1em;
+  }
+  
+  .center {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height:100vh;  
+  }

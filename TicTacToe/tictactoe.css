@@ -1,0 +1,25 @@
+table, td, tr{
+    border: 2px solid black;
+    border-collapse: collapse;
+
+  }
+  
+  table {
+    background-color: #CFD3EE;
+  }
+  td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+    font-size: 30px;
+    font: arial, sans-serif;
+    color: #FF9EA9;
+  }
+  p {
+    text-align: center;
+    font: arial, sans-serif;
+    color: #FF9EA9;
+  }
